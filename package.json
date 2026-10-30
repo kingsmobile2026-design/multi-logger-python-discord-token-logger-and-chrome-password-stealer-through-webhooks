@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.py",
   "scripts": {
-    "start": "node main.py"
+    "start": "python main.py"
   },
   "dependencies": {}
 }
